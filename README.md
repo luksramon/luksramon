@@ -27,12 +27,8 @@
 ## Skills ⚡🚀
 
 <p align='left'>
-    
-![Microsoft] (https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 </p>
-
-</br>
 
 ## Quero aprender 👨‍💻👨‍💻
 
