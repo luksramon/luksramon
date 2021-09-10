@@ -4,11 +4,11 @@
 
 ## Minhas redes👾
 <p align='left'>
-    <a href="www.linkedin.com/in/luksramon" target=”_blank”>
+    <a href="https://www.linkedin.com/in/luksramon" target=”_blank”>
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>    
     <a href="https://api.whatsapp.com/send?phone=5583988449112" target=”_blank”>
-    ​   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
 </p>
 
