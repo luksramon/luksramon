@@ -28,6 +28,7 @@
 
 <p align='left'>
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+    ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </p>
 
 ## Quero aprender 👨‍💻👨‍💻
