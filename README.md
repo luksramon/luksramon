@@ -52,4 +52,4 @@
 
 </br>
 
-![Luksramon GitHub stats] (https://github-readme-stats.vercel.app/api?username=luksramon&show_icons=true&theme=vision-friendly-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=luksramon&show_icons=true&theme=vision-friendly-dark" />
